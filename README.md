@@ -9,12 +9,11 @@ To use this boilerplate, clone the repository and make edits to the project to u
 ```
 python_boilerplace/ # <-- Edit name
     docs/
-    python_boilerplate/ # <--- Edit name
-        src/
-        tests/
+    src/
+    tests/
     .gitignore
     LICENSE
     pytest.ini
     README.md
-    setup.py # <-- Edit this file. Rename the name property in the setup() function.
+    setup.py
 ```

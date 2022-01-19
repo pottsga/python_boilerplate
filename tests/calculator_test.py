@@ -1,4 +1,4 @@
-from python_boilerplate.src import calculator
+from src import calculator
 
 class TestCalculatorAdd:
     def test_basic_add(self):

@@ -16,7 +16,7 @@ requires = [
 ]
 
 setup(
-    name="python_boilerplate",
+    name="src",
     version="1.0.0",
     description="A sample boilerplate project.",
     long_description=readme,
